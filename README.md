@@ -2,6 +2,10 @@
 
 ### Merhaba, ben Ersin Tokmak👋
 
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/ersin-tokmak-628888231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 Programming Languages:
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="C" src="https://img.shields.io/badge/%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>  <img alt="QML" src="https://img.shields.io/badge/QML%20-%23323330.svg?&style=for-the-badge&logo=QML%2B%2B&ogoColor=white"/>
