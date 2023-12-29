@@ -16,5 +16,5 @@ Web Tools:
 
 Embeded tools:
 
-<code><img height="20" src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png"></code>
+<img height="20" src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png">
 
