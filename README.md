@@ -8,4 +8,4 @@ Programming Languages:
 
 Web Tools:
 
-<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23FF9900.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%2300551.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
