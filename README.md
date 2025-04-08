@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ersin-tokmak&show_icons=true&theme=dark">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ersin-tokmak&show_icons=true&theme=light">
 
 ### Merhaba, ben Ersin Tokmak👋
 
